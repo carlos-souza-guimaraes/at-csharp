@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="row justify-content-md-center">
+    @foreach (var item in Model.ListaCarro)
+    {
+        <div class="card col-3 m-3">
+            <img src="@item.ImageUri" class="p-3">
+            <div class="card-body">
+            <h5 class="card-title">@item.Linha @item.ModeloId</h5>
+            <p class="card-text">@item.Ano</p>
+            <a class="btn btn-primary" 
+            asp-page="/Details"
+            asp-route-id="@item.Id"
+            a>Ver mais</a>
+        </div>
+    </div>
+
+    }
+    
+</div>

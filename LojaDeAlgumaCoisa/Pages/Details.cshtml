@@ -1,0 +1,27 @@
+﻿@page
+@model LojaDeAlgumaCoisa.Pages.DetailsModel
+
+<h2 class="my-3">@Model.Carro.Linha @Model.Carro.ModeloId</h2>
+<div class="row">
+    <div class="col-4">
+        <img class="img-fluid rounded" src="@Model.Carro.ImageUri">
+    </div>
+    <div class="col-6">
+        <h4 class="my-3">Detalhes:</h4>
+        <ul>
+            
+            <li><label asp-for="Carro.Ano"></label>: @Model.Carro.Ano</li>
+            <li><label asp-for="Carro.Placa"></label>: @Model.Carro.Placa</li>
+            <li><label asp-for="Carro.Preco"></label>: @Html.DisplayFor(model => model.Carro.Preco)</li>
+            <li><label asp-for="Carro.Vendido"></label>: @Model.Carro.VendidoFormatado</li>
+            <li><label asp-for="Carro.Registro"></label>: @Html.DisplayFor(model => model.Carro.Registro)</li>
+        </ul>
+        @if (User.Identity.IsAuthenticated)
+        {
+        <a class="btn my-3 btn-primary" asp-page="Edit" asp-route-id="@Model.Carro.Id">Editar</a>
+        <a class="btn my-3 btn-danger" asp-page="Delete" asp-route-id="@Model.Carro.Id">Deletar</a>
+        }
+    </div>
+    
+
+</div>

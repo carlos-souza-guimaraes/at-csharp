@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LojaDeAlgumaCoisa
+build_property.RootNamespace = LojaDeAlgumaCoisa
+build_property.ProjectDir = F:\..Engenharia de Software\PROJETOS\Infnet\CSharp\at-csharp\LojaDeAlgumaCoisa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\..Engenharia de Software\PROJETOS\Infnet\CSharp\at-csharp\LojaDeAlgumaCoisa
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Modelos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Modelos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Modelos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Modelos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Modelos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/..Engenharia de Software/PROJETOS/Infnet/CSharp/at-csharp/LojaDeAlgumaCoisa/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q418c7w3cn
